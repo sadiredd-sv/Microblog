@@ -1,0 +1,33 @@
+﻿body 
+{
+  background-color:darkgray;
+  font-size:10pt;
+  font-family:Verdana;
+  border:none;
+}
+
+h1
+{
+	font-family: Arial;
+	font-size:20pt;
+	letter-spacing:10pt;
+	font-weight : 700;
+	background-color: navy;
+	color:white;
+	margin:0px;
+	border:none 0px;
+}
+
+h2
+{
+	font-family:Arial;
+	font-size:14pt;
+	font-weight: 700;
+	color:Maroon;
+	margin:0px;
+}
+
+tr 
+{
+    margin:0px;
+}
